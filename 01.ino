@@ -5,14 +5,14 @@
 
 
 // WiFi credentials
-const char* ssid = "หิวยัง";
-const char* password = "11111111";
+const char* ssid = "**********";
+const char* password = "**********";
 
 // MQTT credentials
-const char* mqtt_server = "8df4daee0ae8481a8b0539623beb8aa0.s1.eu.hivemq.cloud";
-const int mqtt_port = 8883;
-const char* mqtt_user = "hivemq.webclient.1747362479928";
-const char* mqtt_password = "axy1&DLl409AT.fS>?Kj";
+const char* mqtt_server = "**********";
+const int mqtt_port = **********;
+const char* mqtt_user = "**********";
+const char* mqtt_password = "**********";
 
 // MQTT topics
 const char* topic_servo1 = "Slider1";
